@@ -18,8 +18,7 @@ Twitter (X) UI Clone is a frontend application built using React and Vite that r
 ## 🛠️ Tech Stack
 
 - React  
-- Vite  
-- JavaScript (ES6+)  
+- Vite 
 - CSS / Tailwind CSS 
 
 ---
