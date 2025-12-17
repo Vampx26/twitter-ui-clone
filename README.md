@@ -40,6 +40,8 @@ Twitter (X) UI Clone is a frontend application built using React and Vite that r
 - Add animations and transitions
 - Integrate real data using APIs
 
+---
+  
 ⚠️ Disclaimer
 This project is created for educational purposes only.
 All design rights belong to Twitter (X).
